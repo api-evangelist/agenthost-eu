@@ -66,7 +66,7 @@
 
 Web hosting you can just ask for. Connect agenthost to Claude, Cursor or any MCP client, then tell your agent to put your app online. Websites, Node, Python and PHP — no dashboard, no settings, no setup.
 
-**Areas:** WebHosting · AI · MCP · Cloud · EU
+**Areas:** Web Hosting · Artificial Intelligence · MCP · Cloud · EU
 
 ## agenthost on APIs.io
 
@@ -90,27 +90,27 @@ Spectral rulesets for the provider's contracts.
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Agenthost Eu Authentication](https://apis.io/security/agenthost-eu/agenthost-eu-authentication/)
-- [Agenthost Eu Domain Security](https://apis.io/security/agenthost-eu/agenthost-eu-domain-security/)
-- [Agenthost Eu Trust Center](https://apis.io/security/agenthost-eu/agenthost-eu-trust-center/)
+- [agenthost Authentication](https://apis.io/security/agenthost-eu/agenthost-eu-authentication/)
+- [agenthost Domain Security](https://apis.io/security/agenthost-eu/agenthost-eu-domain-security/)
+- [agenthost Trust Center](https://apis.io/security/agenthost-eu/agenthost-eu-trust-center/)
 
 #### OAuth scopes (1)
 
 The permissions the API asks for.
 
-- [Agenthost Eu Scopes](https://apis.io/scopes/agenthost-eu/agenthost-eu-scopes/)
+- [agenthost Scopes](https://apis.io/scopes/agenthost-eu/agenthost-eu-scopes/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [Agenthost Eu Plans Pricing](https://apis.io/plans/agenthost-eu/agenthost-eu-plans-pricing/)
+- [agenthost Plans Pricing](https://apis.io/plans/agenthost-eu/agenthost-eu-plans-pricing/)
 
 #### Rate limits (1)
 
 Published request limits.
 
-- [Agenthost Eu Rate Limits](https://apis.io/rate-limits/agenthost-eu/agenthost-eu-rate-limits/)
+- [agenthost Rate Limits](https://apis.io/rate-limits/agenthost-eu/agenthost-eu-rate-limits/)
 
 ## Where to find this API
 
@@ -129,25 +129,25 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 52.4** — developing · rubric 0.26.0 · scored 2026-10-31
+**Kin Score 42.1** — developing · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 57.1 |
-| Contract quality | 33.7 |
-| Contract governance | 79.1 |
-| Operational transparency | 10.5 |
+| Discoverability | 64.3 |
+| Contract quality | 9.4 |
+| Contract governance | 35.6 |
+| Operational transparency | 9.5 |
 | Developer ergonomics | 54.8 |
-| Access clarity | 66.3 |
+| Access clarity | 68.1 |
 
-**Agent readiness 37.3** — agent-ready
+**Agent readiness 33.5** — agent-ready
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | yes |
 | Agentic Access | — |
 | Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
+| MCP Server | — |
 | Auth Clarity | served (partial credit) |
 | Idempotency | — |
 | Error Semantics | — |
@@ -166,6 +166,9 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
 | MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
 **Regulatory alignment 36.4** — Horizontal (data, software, accessibility, platform)
 
